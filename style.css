@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.game-container {
+    text-align: center;
+}
+
+#timer {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+#letters-container {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+#input-field {
+    font-size: 1em;
+    margin-bottom: 10px;
+}
+
+#start-button {
+    font-size: 1em;
+    padding: 10px;
+}
